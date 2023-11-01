@@ -1,6 +1,6 @@
  Credit Card Transaction Analysis Queries:
 
-This document provides an overview of SQL queries designed to analyze credit card transactions stored in a dataset named "credit_card_transactions." The dataset contains information on transaction amount, card type, city, gender, and expense type.
+it is an overview of SQL queries designed to analyze credit card transactions stored in a dataset named "credit_card_transactions." The dataset contains information on transaction amount, card type, city, gender, and expense type.
 
 
 The first query identifies the top 5 cities with the highest credit card spends and calculates their percentage contribution to the total spends. The second query determines the highest spend month and amount for each card type. The third query retrieves transaction details for each card type when cumulative spends reach or exceed 1000000.
